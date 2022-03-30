@@ -6,4 +6,4 @@ hello() ->
     io:format("hello world~n").
 
 
-% Explanation: https://erlangbyexample.org/hello-world 
+% Explanation: https://erlangbyexample.org/hello-world
